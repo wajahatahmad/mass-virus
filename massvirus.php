@@ -3,7 +3,7 @@
  \ \   / (_)_ __ _   _ ___    
   \ \ / /| | '__| | | / __|     
    \ V / | | |  | |_| \__ \      
-    \_/  |_|_|   \__,_|___/   (By wajahat ahmad)
+    \_/  |_|_|   \__,_|___/   (By Wajahat Ahmad)
 Copy full text and send to victim
 
 
